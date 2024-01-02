@@ -1,0 +1,38 @@
+Tamagotchi "TamHexagone"
+
+personnage incarnée : Cosmo 
+
+fonctionnalité principale :
+
+l'utilisateur doit :
+- le nourrir
+- le laver 
+- jouer avec lui pour l'éduquer le faire grandir et évoluer
+
+A prendre en compte : Mais il peut également mourir si vous ne vous en occupez pas, et il faudra alors tout recommencer.
+
+environnent de jeu : l'ecole hexagone 
+
+3 plateau de jeu :
+- la tisanerie 
+- le fablab 
+- le salon 
+
+dans la tisanerie : le personnage devra attraper et poser des tasses qui laissera place a une petite cinématique ou les tasses se feront laver par une machine a laver et affichera : Mission Accompli !
+
+dans le FabLab : un coté plus explicatif de ce qu'est une imprimante 3D et un autre objet attirant present au FabLab 
+
+dans le salon : 5 question posé l'utilisateur repond par oui ou non (mini QCM) et chaque reponse est comptabilisé en plus d'une petit animation si bonne réponse et mauvaise et fin du jeu 
+
+composants/outils/languages utilisé :
+
+- la carte informatique Arduino 
+- scripts écrits en C/C++
+- Modélisation et conception du boitier sur Fusion360 
+- Écran
+- Bouton
+- Alimentation
+- impression 3D BambuLab ou en résine
+- Fer à souder
+- Pistolet à colle
+- Pince coupante
